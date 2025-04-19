@@ -11,6 +11,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
