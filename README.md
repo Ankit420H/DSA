@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
