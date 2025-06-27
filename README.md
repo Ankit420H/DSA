@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/Ankit420H/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Ankit420H/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -202,4 +203,8 @@
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
