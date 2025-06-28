@@ -9,6 +9,7 @@
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
@@ -131,6 +133,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ankit420H/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankit420H/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 ## Backtracking
 |  |
