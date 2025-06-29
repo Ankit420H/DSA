@@ -29,6 +29,7 @@
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ankit420H/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -46,6 +47,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
@@ -83,6 +85,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
+| [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Simulation
 |  |
