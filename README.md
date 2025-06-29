@@ -26,6 +26,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -111,6 +112,7 @@
 | [0012-integer-to-roman](https://github.com/Ankit420H/DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -140,6 +142,7 @@
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
