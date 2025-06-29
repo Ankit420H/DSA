@@ -26,6 +26,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
@@ -78,12 +80,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -107,6 +111,7 @@
 | [0012-integer-to-roman](https://github.com/Ankit420H/DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
