@@ -30,6 +30,7 @@
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit420H/DSA/tree/master/0414-third-maximum-number) |
+| [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 ## Counting
 |  |
