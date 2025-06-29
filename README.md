@@ -33,6 +33,7 @@
 | [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ankit420H/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -89,6 +90,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -96,6 +98,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit420H/DSA/tree/master/0414-third-maximum-number) |
+| [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
