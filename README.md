@@ -228,6 +228,7 @@
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ankit420H/DSA/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
