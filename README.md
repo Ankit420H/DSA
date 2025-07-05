@@ -195,6 +195,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Ankit420H/DSA/tree/master/0183-customers-who-never-order) |
+## Linked List
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
