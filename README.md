@@ -29,6 +29,7 @@
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ankit420H/DSA/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Ankit420H/DSA/tree/master/0056-merge-intervals) |
+| [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit420H/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ankit420H/DSA/tree/master/0455-assign-cookies) |
@@ -309,6 +311,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [1137-height-checker](https://github.com/Ankit420H/DSA/tree/master/1137-height-checker) |
 ## String Matching
 |  |
