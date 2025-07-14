@@ -13,6 +13,7 @@
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Ankit420H/DSA/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankit420H/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -328,6 +329,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
