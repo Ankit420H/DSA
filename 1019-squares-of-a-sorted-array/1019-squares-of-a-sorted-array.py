@@ -13,6 +13,4 @@ class Solution:
                 v[i]=nums[r]
                 r-=1
             i-=1
-
-
         return v
