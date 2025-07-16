@@ -1,6 +1,5 @@
 class Solution:
     def hasGroupsSizeX(self, deck: List[int]) -> bool:
-        from math import gcd
         if len(deck) < 2:
             return False
         d = {}
