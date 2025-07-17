@@ -65,6 +65,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankit420H/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ankit420H/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit420H/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -158,6 +159,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankit420H/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
