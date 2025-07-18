@@ -72,6 +72,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Ankit420H/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit420H/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -99,6 +100,7 @@
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
+| [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Binary Search
 |  |
@@ -208,6 +210,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankit420H/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
