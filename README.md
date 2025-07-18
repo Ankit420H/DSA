@@ -90,6 +90,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ankit420H/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ankit420H/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Ankit420H/DSA/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -104,6 +105,7 @@
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Ankit420H/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
