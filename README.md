@@ -65,6 +65,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankit420H/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1944-truncate-sentence](https://github.com/Ankit420H/DSA/tree/master/1944-truncate-sentence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -245,6 +246,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1944-truncate-sentence](https://github.com/Ankit420H/DSA/tree/master/1944-truncate-sentence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ankit420H/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
