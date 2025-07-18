@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ankit420H/DSA/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -34,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ankit420H/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ankit420H/DSA/tree/master/0283-move-zeroes) |
@@ -93,6 +95,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -386,6 +389,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
