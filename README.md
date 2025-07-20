@@ -90,6 +90,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
@@ -226,6 +227,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit420H/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -343,6 +345,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
 |  |
