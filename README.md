@@ -24,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit420H/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/Ankit420H/DSA/tree/master/0056-merge-intervals) |
@@ -145,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit420H/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ankit420H/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ankit420H/DSA/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
