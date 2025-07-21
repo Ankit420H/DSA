@@ -209,6 +209,7 @@
 | [0012-integer-to-roman](https://github.com/Ankit420H/DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit420H/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
@@ -409,11 +410,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Number Theory
 |  |
@@ -421,4 +424,8 @@
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
