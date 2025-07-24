@@ -93,6 +93,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ankit420H/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit420H/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ankit420H/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -385,6 +388,7 @@
 | [0029-divide-two-integers](https://github.com/Ankit420H/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Backtracking
 |  |
 | ------- |
