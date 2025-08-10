@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ankit420H/DSA/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
+| [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -184,6 +186,7 @@
 | [0414-third-maximum-number](https://github.com/Ankit420H/DSA/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Ankit420H/DSA/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankit420H/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Ankit420H/DSA/tree/master/1137-height-checker) |
@@ -232,6 +235,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Ankit420H/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ankit420H/DSA/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ankit420H/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -367,6 +371,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
