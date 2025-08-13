@@ -13,6 +13,7 @@
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ankit420H/DSA/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/Ankit420H/DSA/tree/master/0326-power-of-three) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -422,6 +423,7 @@
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Ankit420H/DSA/tree/master/0060-permutation-sequence) |
+| [0326-power-of-three](https://github.com/Ankit420H/DSA/tree/master/0326-power-of-three) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
