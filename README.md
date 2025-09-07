@@ -37,6 +37,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit420H/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Ankit420H/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -415,6 +416,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankit420H/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Ankit420H/DSA/tree/master/0136-single-number) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
