@@ -19,6 +19,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ankit420H/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
