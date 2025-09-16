@@ -119,6 +119,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ankit420H/DSA/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Ankit420H/DSA/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
@@ -272,6 +273,7 @@
 | [2689-rearranging-fruits](https://github.com/Ankit420H/DSA/tree/master/2689-rearranging-fruits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
