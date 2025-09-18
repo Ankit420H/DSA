@@ -171,6 +171,7 @@
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -388,6 +390,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -499,6 +502,7 @@
 | [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 ## Number Theory
 |  |
 | ------- |
