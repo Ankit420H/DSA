@@ -327,6 +327,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit420H/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ankit420H/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
+| [3811-reverse-degree-of-a-string](https://github.com/Ankit420H/DSA/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
