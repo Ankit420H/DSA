@@ -67,6 +67,7 @@
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankit420H/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Ankit420H/DSA/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Ankit420H/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1293-three-consecutive-odds](https://github.com/Ankit420H/DSA/tree/master/1293-three-consecutive-odds) |
@@ -261,6 +262,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ankit420H/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ankit420H/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ankit420H/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -337,6 +339,7 @@
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Ankit420H/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit420H/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -419,6 +422,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
