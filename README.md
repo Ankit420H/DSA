@@ -86,6 +86,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1944-truncate-sentence](https://github.com/Ankit420H/DSA/tree/master/1944-truncate-sentence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Ankit420H/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankit420H/DSA/tree/master/2058-concatenation-of-array) |
@@ -173,6 +174,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
@@ -270,6 +272,7 @@
 | [1813-maximum-erasure-value](https://github.com/Ankit420H/DSA/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2122-count-special-quadruplets](https://github.com/Ankit420H/DSA/tree/master/2122-count-special-quadruplets) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -396,6 +399,7 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -514,6 +518,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
