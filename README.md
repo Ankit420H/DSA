@@ -186,6 +186,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0165-compare-version-numbers](https://github.com/Ankit420H/DSA/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ankit420H/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -343,6 +344,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Ankit420H/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/Ankit420H/DSA/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
