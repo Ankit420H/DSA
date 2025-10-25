@@ -28,6 +28,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Ankit420H/DSA/tree/master/2383-add-two-integers) |
+| [2556-convert-the-temperature](https://github.com/Ankit420H/DSA/tree/master/2556-convert-the-temperature) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/Ankit420H/DSA/tree/master/2650-split-with-minimum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankit420H/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
