@@ -24,6 +24,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ankit420H/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/Ankit420H/DSA/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ankit420H/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
