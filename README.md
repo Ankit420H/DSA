@@ -36,6 +36,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankit420H/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/Ankit420H/DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Array
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ankit420H/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
