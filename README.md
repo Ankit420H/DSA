@@ -30,6 +30,7 @@
 | [2383-add-two-integers](https://github.com/Ankit420H/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Ankit420H/DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Ankit420H/DSA/tree/master/2556-convert-the-temperature) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Ankit420H/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/Ankit420H/DSA/tree/master/2650-split-with-minimum-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankit420H/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
