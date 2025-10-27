@@ -26,6 +26,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ankit420H/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Ankit420H/DSA/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Ankit420H/DSA/tree/master/2491-smallest-even-multiple) |
@@ -112,6 +113,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ankit420H/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ankit420H/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -385,6 +387,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ankit420H/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ankit420H/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Ankit420H/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
@@ -453,6 +456,7 @@
 | [0566-reshape-the-matrix](https://github.com/Ankit420H/DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ankit420H/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Ankit420H/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
