@@ -39,6 +39,7 @@
 | [3371-harshad-number](https://github.com/Ankit420H/DSA/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit420H/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -568,6 +569,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Ankit420H/DSA/tree/master/2491-smallest-even-multiple) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit420H/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Doubly-Linked List
 |  |
 | ------- |
