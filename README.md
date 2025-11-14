@@ -40,6 +40,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit420H/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Ankit420H/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/Ankit420H/DSA/tree/master/3336-water-bottles-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Ankit420H/DSA/tree/master/3811-reverse-degree-of-a-string) |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Ankit420H/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## String
 |  |
 | ------- |
