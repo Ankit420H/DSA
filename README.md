@@ -151,6 +151,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
+| [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -319,6 +322,7 @@
 | [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
+| [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Matrix
 |  |
 | ------- |
