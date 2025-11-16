@@ -96,6 +96,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit420H/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ankit420H/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1580-shuffle-the-array](https://github.com/Ankit420H/DSA/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ankit420H/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -370,6 +371,7 @@
 | [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankit420H/DSA/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ankit420H/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/Ankit420H/DSA/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Ankit420H/DSA/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Ankit420H/DSA/tree/master/2058-concatenation-of-array) |
@@ -428,6 +430,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Ankit420H/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
