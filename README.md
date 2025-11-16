@@ -92,6 +92,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/Ankit420H/DSA/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Ankit420H/DSA/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Ankit420H/DSA/tree/master/1656-count-good-triplets) |
