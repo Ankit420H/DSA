@@ -86,6 +86,7 @@
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ankit420H/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Ankit420H/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankit420H/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -547,6 +548,7 @@
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Ankit420H/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit420H/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankit420H/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
