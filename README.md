@@ -35,6 +35,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Ankit420H/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ankit420H/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/Ankit420H/DSA/tree/master/2650-split-with-minimum-sum) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Ankit420H/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ankit420H/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/Ankit420H/DSA/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/Ankit420H/DSA/tree/master/3371-harshad-number) |
