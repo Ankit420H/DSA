@@ -20,6 +20,7 @@
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Ankit420H/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -319,6 +320,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ankit420H/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
