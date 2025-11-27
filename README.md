@@ -145,6 +145,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit420H/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -378,6 +379,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
@@ -510,6 +512,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ankit420H/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankit420H/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Ankit420H/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
