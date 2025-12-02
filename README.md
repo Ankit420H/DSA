@@ -45,6 +45,7 @@
 | [3371-harshad-number](https://github.com/Ankit420H/DSA/tree/master/3371-harshad-number) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit420H/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Ankit420H/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
@@ -171,6 +172,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3668-restore-finishing-order](https://github.com/Ankit420H/DSA/tree/master/3668-restore-finishing-order) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
@@ -353,6 +355,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ankit420H/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3668-restore-finishing-order](https://github.com/Ankit420H/DSA/tree/master/3668-restore-finishing-order) |
 | [3678-design-task-manager](https://github.com/Ankit420H/DSA/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -651,4 +654,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
