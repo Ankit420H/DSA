@@ -405,6 +405,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankit420H/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ankit420H/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Ankit420H/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ankit420H/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit420H/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -437,6 +438,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ankit420H/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2211-count-collisions-on-a-road](https://github.com/Ankit420H/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ankit420H/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ankit420H/DSA/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -461,6 +463,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Ankit420H/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ankit420H/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2211-count-collisions-on-a-road](https://github.com/Ankit420H/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Greedy
