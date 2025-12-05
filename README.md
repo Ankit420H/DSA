@@ -179,6 +179,7 @@
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3668-restore-finishing-order](https://github.com/Ankit420H/DSA/tree/master/3668-restore-finishing-order) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
 | [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Enumeration
@@ -205,11 +206,13 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit420H/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
 ## Binary Indexed Tree
 |  |
@@ -293,6 +296,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
 |  |
 | ------- |
@@ -668,4 +672,8 @@
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+## Quickselect
+|  |
+| ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 <!---LeetCode Topics End-->
