@@ -173,6 +173,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
@@ -380,6 +381,7 @@
 | [1813-maximum-erasure-value](https://github.com/Ankit420H/DSA/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit420H/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 ## Simulation
 |  |
@@ -517,6 +520,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankit420H/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankit420H/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
@@ -663,6 +667,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Game Theory
 |  |
 | ------- |
@@ -676,4 +681,8 @@
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
