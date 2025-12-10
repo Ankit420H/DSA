@@ -48,6 +48,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ankit420H/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ankit420H/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Ankit420H/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
@@ -175,6 +176,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Ankit420H/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Ankit420H/DSA/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ankit420H/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -666,6 +668,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ankit420H/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Ankit420H/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ankit420H/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -688,4 +691,8 @@
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ankit420H/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
