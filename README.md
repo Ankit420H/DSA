@@ -179,6 +179,7 @@
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ankit420H/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
+| [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -369,6 +370,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ankit420H/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3668-restore-finishing-order](https://github.com/Ankit420H/DSA/tree/master/3668-restore-finishing-order) |
@@ -558,6 +560,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ankit420H/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Graph
 |  |
