@@ -180,6 +180,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Ankit420H/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ankit420H/DSA/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Ankit420H/DSA/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Ankit420H/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -302,6 +303,7 @@
 | [2689-rearranging-fruits](https://github.com/Ankit420H/DSA/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Ankit420H/DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ankit420H/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3606-coupon-code-validator](https://github.com/Ankit420H/DSA/tree/master/3606-coupon-code-validator) |
 | [3647-zero-array-transformation-iii](https://github.com/Ankit420H/DSA/tree/master/3647-zero-array-transformation-iii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Tree
@@ -371,6 +373,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/Ankit420H/DSA/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Ankit420H/DSA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3668-restore-finishing-order](https://github.com/Ankit420H/DSA/tree/master/3668-restore-finishing-order) |
@@ -467,6 +470,7 @@
 | [3396-valid-word](https://github.com/Ankit420H/DSA/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ankit420H/DSA/tree/master/3412-permutation-difference-between-two-strings) |
 | [3462-vowels-game-in-a-string](https://github.com/Ankit420H/DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3606-coupon-code-validator](https://github.com/Ankit420H/DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Ankit420H/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ankit420H/DSA/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
