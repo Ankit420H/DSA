@@ -31,6 +31,7 @@
 | [1925-count-square-sum-triples](https://github.com/Ankit420H/DSA/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ankit420H/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ankit420H/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ankit420H/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2383-add-two-integers](https://github.com/Ankit420H/DSA/tree/master/2383-add-two-integers) |
@@ -402,6 +403,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ankit420H/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -456,6 +458,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ankit420H/DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ankit420H/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Ankit420H/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ankit420H/DSA/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2211-count-collisions-on-a-road](https://github.com/Ankit420H/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Ankit420H/DSA/tree/master/2219-maximum-number-of-words-found-in-sentences) |
