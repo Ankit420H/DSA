@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ankit420H/DSA/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Ankit420H/DSA/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/Ankit420H/DSA/tree/master/0441-arranging-coins) |
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -208,6 +209,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Ankit420H/DSA/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/Ankit420H/DSA/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
