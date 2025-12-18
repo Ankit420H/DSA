@@ -21,6 +21,7 @@
 | [0728-self-dividing-numbers](https://github.com/Ankit420H/DSA/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ankit420H/DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -96,6 +97,7 @@
 | [0940-fruit-into-baskets](https://github.com/Ankit420H/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-valid-mountain-array](https://github.com/Ankit420H/DSA/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Ankit420H/DSA/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4045-longest-balanced-subarray-i](https://github.com/Ankit420H/DSA/tree/master/4045-longest-balanced-subarray-i) |
@@ -285,6 +288,7 @@
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankit420H/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Ankit420H/DSA/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Ankit420H/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -523,6 +527,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -699,11 +704,13 @@
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Ankit420H/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Ankit420H/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Quickselect
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Ankit420H/DSA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Monotonic Queue
 |  |
