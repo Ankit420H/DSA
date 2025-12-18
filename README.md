@@ -155,6 +155,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ankit420H/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Ankit420H/DSA/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
@@ -431,6 +432,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit420H/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Ankit420H/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ankit420H/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ankit420H/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 | [3336-water-bottles-ii](https://github.com/Ankit420H/DSA/tree/master/3336-water-bottles-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/Ankit420H/DSA/tree/master/3811-reverse-degree-of-a-string) |
@@ -549,6 +551,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ankit420H/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Ankit420H/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/Ankit420H/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Ankit420H/DSA/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3797-design-spreadsheet](https://github.com/Ankit420H/DSA/tree/master/3797-design-spreadsheet) |
