@@ -94,6 +94,7 @@
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/Ankit420H/DSA/tree/master/0875-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit420H/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
@@ -216,6 +217,7 @@
 | [0441-arranging-coins](https://github.com/Ankit420H/DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Ankit420H/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Ankit420H/DSA/tree/master/0611-valid-triangle-number) |
+| [0875-koko-eating-bananas](https://github.com/Ankit420H/DSA/tree/master/0875-koko-eating-bananas) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
