@@ -99,6 +99,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Ankit420H/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-valid-mountain-array](https://github.com/Ankit420H/DSA/tree/master/0978-valid-mountain-array) |
@@ -471,6 +472,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
