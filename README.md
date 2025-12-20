@@ -78,6 +78,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit420H/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Ankit420H/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ankit420H/DSA/tree/master/0283-move-zeroes) |
@@ -292,6 +293,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ankit420H/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ankit420H/DSA/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Ankit420H/DSA/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Ankit420H/DSA/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Ankit420H/DSA/tree/master/0414-third-maximum-number) |
@@ -354,6 +356,7 @@
 | [0146-lru-cache](https://github.com/Ankit420H/DSA/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ankit420H/DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Ankit420H/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ankit420H/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
