@@ -91,6 +91,7 @@
 | [0485-max-consecutive-ones](https://github.com/Ankit420H/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ankit420H/DSA/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit420H/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Ankit420H/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Ankit420H/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -363,6 +364,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankit420H/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit420H/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Ankit420H/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
@@ -563,6 +565,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ankit420H/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ankit420H/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit420H/DSA/tree/master/1833-find-the-highest-altitude) |
