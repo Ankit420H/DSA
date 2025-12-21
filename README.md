@@ -109,6 +109,7 @@
 | [0941-sort-array-by-parity](https://github.com/Ankit420H/DSA/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-valid-mountain-array](https://github.com/Ankit420H/DSA/tree/master/0978-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ankit420H/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -488,6 +489,7 @@
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -540,6 +542,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/Ankit420H/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Ankit420H/DSA/tree/master/0611-valid-triangle-number) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ankit420H/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
