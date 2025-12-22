@@ -169,6 +169,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Ankit420H/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Ankit420H/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
@@ -330,6 +331,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ankit420H/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Ankit420H/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
@@ -553,6 +555,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ankit420H/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Ankit420H/DSA/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Ankit420H/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ankit420H/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2650-split-with-minimum-sum](https://github.com/Ankit420H/DSA/tree/master/2650-split-with-minimum-sum) |
 | [2689-rearranging-fruits](https://github.com/Ankit420H/DSA/tree/master/2689-rearranging-fruits) |
@@ -571,6 +574,7 @@
 | [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Ankit420H/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Ankit420H/DSA/tree/master/2479-meeting-rooms-iii) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/Ankit420H/DSA/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
