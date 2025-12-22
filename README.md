@@ -31,6 +31,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ankit420H/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Ankit420H/DSA/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Ankit420H/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Ankit420H/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ankit420H/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/Ankit420H/DSA/tree/master/1925-count-square-sum-triples) |
@@ -550,6 +551,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Ankit420H/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Ankit420H/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ankit420H/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -571,6 +573,7 @@
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-maximum-score-from-removing-stones](https://github.com/Ankit420H/DSA/tree/master/1753-maximum-score-from-removing-stones) |
 | [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ankit420H/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Ankit420H/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
