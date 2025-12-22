@@ -110,6 +110,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/Ankit420H/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0978-valid-mountain-array](https://github.com/Ankit420H/DSA/tree/master/0978-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ankit420H/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -439,6 +440,7 @@
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -490,6 +492,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/Ankit420H/DSA/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/Ankit420H/DSA/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Ankit420H/DSA/tree/master/1112-find-words-that-can-be-formed-by-characters) |
