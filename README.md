@@ -389,6 +389,7 @@
 | [0575-distribute-candies](https://github.com/Ankit420H/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ankit420H/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/Ankit420H/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/Ankit420H/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Ankit420H/DSA/tree/master/0940-fruit-into-baskets) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ankit420H/DSA/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -507,6 +508,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0756-pyramid-transition-matrix](https://github.com/Ankit420H/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -681,6 +683,7 @@
 | [0067-add-binary](https://github.com/Ankit420H/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Ankit420H/DSA/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/Ankit420H/DSA/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/Ankit420H/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Ankit420H/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -692,6 +695,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Ankit420H/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Ankit420H/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Recursion
 |  |
