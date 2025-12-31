@@ -148,6 +148,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Ankit420H/DSA/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1944-truncate-sentence](https://github.com/Ankit420H/DSA/tree/master/1944-truncate-sentence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Ankit420H/DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Ankit420H/DSA/tree/master/2023-design-movie-rental-system) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ankit420H/DSA/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -244,6 +245,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankit420H/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Ankit420H/DSA/tree/master/2280-count-good-triplets-in-an-array) |
@@ -632,6 +634,7 @@
 | [0840-magic-squares-in-grid](https://github.com/Ankit420H/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit420H/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ankit420H/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ankit420H/DSA/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -674,11 +677,13 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit420H/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Ankit420H/DSA/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ankit420H/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Ankit420H/DSA/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Bit Manipulation
 |  |
@@ -716,6 +721,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit420H/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Counting Sort
 |  |
 | ------- |
