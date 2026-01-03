@@ -82,6 +82,7 @@
 | [0135-candy](https://github.com/Ankit420H/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Ankit420H/DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit420H/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit420H/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ankit420H/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Ankit420H/DSA/tree/master/0217-contains-duplicate) |
@@ -236,6 +237,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ankit420H/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit420H/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Ankit420H/DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Ankit420H/DSA/tree/master/0493-reverse-pairs) |
@@ -295,6 +297,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/Ankit420H/DSA/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankit420H/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ankit420H/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ankit420H/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ankit420H/DSA/tree/master/0349-intersection-of-two-arrays) |
