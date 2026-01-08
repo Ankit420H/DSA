@@ -135,6 +135,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Ankit420H/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/Ankit420H/DSA/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ankit420H/DSA/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Ankit420H/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ankit420H/DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ankit420H/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ankit420H/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -471,6 +472,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ankit420H/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Ankit420H/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Ankit420H/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Ankit420H/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ankit420H/DSA/tree/master/2054-two-best-non-overlapping-events) |
