@@ -470,6 +470,7 @@
 | [0053-maximum-subarray](https://github.com/Ankit420H/DSA/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankit420H/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0875-longest-mountain-in-array](https://github.com/Ankit420H/DSA/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Ankit420H/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ankit420H/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -526,6 +527,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/Ankit420H/DSA/tree/master/0336-palindrome-pairs) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankit420H/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankit420H/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Ankit420H/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ankit420H/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ankit420H/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
