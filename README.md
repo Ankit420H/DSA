@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/Ankit420H/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankit420H/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Ankit420H/DSA/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit420H/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ankit420H/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -468,6 +469,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ankit420H/DSA/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Ankit420H/DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ankit420H/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Ankit420H/DSA/tree/master/0198-house-robber) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ankit420H/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -570,6 +572,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ankit420H/DSA/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ankit420H/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Ankit420H/DSA/tree/master/1552-build-an-array-with-stack-operations) |
@@ -605,6 +608,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Ankit420H/DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Ankit420H/DSA/tree/master/0316-remove-duplicate-letters) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Ankit420H/DSA/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
@@ -644,6 +648,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ankit420H/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Ankit420H/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/Ankit420H/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Ankit420H/DSA/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Ankit420H/DSA/tree/master/0840-magic-squares-in-grid) |
