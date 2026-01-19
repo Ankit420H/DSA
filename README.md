@@ -132,6 +132,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Ankit420H/DSA/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ankit420H/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ankit420H/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ankit420H/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Ankit420H/DSA/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Ankit420H/DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit420H/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -253,6 +254,7 @@
 | [0493-reverse-pairs](https://github.com/Ankit420H/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Ankit420H/DSA/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/Ankit420H/DSA/tree/master/0875-koko-eating-bananas) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ankit420H/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit420H/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Ankit420H/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Ankit420H/DSA/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -644,6 +646,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ankit420H/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankit420H/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Ankit420H/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ankit420H/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ankit420H/DSA/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Ankit420H/DSA/tree/master/1833-find-the-highest-altitude) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Ankit420H/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -663,6 +666,7 @@
 | [0566-reshape-the-matrix](https://github.com/Ankit420H/DSA/tree/master/0566-reshape-the-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Ankit420H/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/Ankit420H/DSA/tree/master/0861-flipping-an-image) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ankit420H/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ankit420H/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankit420H/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ankit420H/DSA/tree/master/2132-convert-1d-array-into-2d-array) |
