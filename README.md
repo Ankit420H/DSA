@@ -569,6 +569,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Ankit420H/DSA/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ankit420H/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/Ankit420H/DSA/tree/master/2502-sort-the-people) |
+| [2833-furthest-point-from-origin](https://github.com/Ankit420H/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ankit420H/DSA/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Ankit420H/DSA/tree/master/3194-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ankit420H/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -691,6 +692,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ankit420H/DSA/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ankit420H/DSA/tree/master/2331-intersection-of-multiple-arrays) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Ankit420H/DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2833-furthest-point-from-origin](https://github.com/Ankit420H/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Ankit420H/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3583-count-special-triplets](https://github.com/Ankit420H/DSA/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ankit420H/DSA/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
